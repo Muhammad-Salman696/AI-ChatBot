@@ -9,7 +9,7 @@ Handles errors and invalid input
 
 ## Setup Instructions
 Clone the repository
-git clone https://github.com/your-username/chatbox-ai.git
+git clone https://github.com/https://github.com/Muhammad-Salman696/AI-ChatBot.git
 cd chatbox-ai
 
 ## Install dependencies
